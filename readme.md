@@ -1,5 +1,5 @@
 **Запуск**: \
-`go mod tidy` \
+`go mod download` \
 `go run main.go`
 
 Вывод воркеров осуществляется в файл log.txt
